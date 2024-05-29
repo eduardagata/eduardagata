@@ -1,16 +1,15 @@
-## Hi there 👋
+## boas vindas ao meu perfil 💙
 
-<!--
-**eduardagata/eduardagata** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+meu nome e eduarda rodrigues
 
-Here are some ideas to get you started:
+- estou estudando na [alura](https://ww.alura.com.br)
+- estou me desenvolvendo na linguagem javaScript
+- ultilizo esse espaço para minha organizaçao e compartilhamento dos meu projetos desenvolvidos
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- ### voce entrar em contato comigo 📪
+
+- Me3511625@gmail.com
+- @eaemaria_07
+
+- ![](https://media1.tenor.com/m/_G8u_NOrmCUAAAAC/delicious-food.gif)
+-
